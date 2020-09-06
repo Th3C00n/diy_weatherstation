@@ -6,11 +6,14 @@ https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
 
 
 Temperature/Humidity/Airpressure sensor:
+
   https://www.makershop.de/bme280-sensor-arduino-nano/
 
 Programming: 
 
   https://www.arduino.cc/en/Main/Software
+  
+  https://www.makershop.de/nodemcu-installieren/
 
   or
 
